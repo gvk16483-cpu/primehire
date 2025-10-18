@@ -10,7 +10,7 @@ const monaSans = Mona_Sans({
 });
 
 export const metadata: Metadata = {
-  title: "PrepWise",
+  title: "PrimeHireVNR",
   description: "An AI-powered platform for preparing for mock interviews",
 };
 
@@ -29,3 +29,4 @@ export default function RootLayout({
     </html>
   );
 }
+
